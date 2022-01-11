@@ -1,1 +1,3 @@
-# 8.-Spring-messaging-module-
+# 8. Spring messaging module
+
+JMS and Kafka
